@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # alphaquant
 
 ======================================================================
@@ -44,3 +45,6 @@ vs2015及以上，需要thrift，libevent，boost，zlib，openssl
   ● 下载bbbstock_sim_trade.py在代码中 import bbbstock_sim_trade
   
 3 请到http://www.bbbstock.com 注册账号，该合作伙伴目前还在起步阶段，有使用问题或建议请在qq群反馈，我们会转达。
+=======
+# TubTrade
+>>>>>>> b54ad9096f531ee24db55b822425be9aef43946e
