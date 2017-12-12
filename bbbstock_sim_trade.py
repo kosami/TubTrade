@@ -7,7 +7,7 @@ from thrift.protocol import TBinaryProtocol
 from alpha_trade_python import AlphaTrade
 
 import time
-
+ 
 class Map(dict):
     """
     Example:

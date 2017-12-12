@@ -5,7 +5,7 @@
 # For details of this script, please check
 # http://www.systutorials.com/239913/install-32-bit-wine-1-8-centos-7/
 
-# Author: Eric Zhiqiang Ma (zma@ericzma.com)
+# Author: Eric Zhiqiang Ma (zma@ericzma.com) 
 
 set -o errexit
 
