@@ -93,8 +93,6 @@ if __name__ == "__main__":
     #取消订单
     ret = alpha_live_trade.CancelOrder(live_trade_id, orderID)
 
-
-        
     #退出登录
     alpha_live_trade.LiveTradeLogout(live_trade_id)
 
