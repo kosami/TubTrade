@@ -7,10 +7,10 @@ else:
 import sys
 import threading
 import time
- 
+
 g_lock = threading.Lock()
 g_stock_price_data = {}
-g_stock_set = set()  
+g_stock_set = set() 
 
 
 

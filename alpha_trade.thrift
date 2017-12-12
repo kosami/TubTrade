@@ -10,7 +10,7 @@ struct AccountBalance {
  1: double total_value,
  2: double money_left,
 }
- 
+
 struct OrderState {
  1: string order_id,
  2: string time,
