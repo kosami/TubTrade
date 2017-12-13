@@ -88,7 +88,7 @@ if __name__ == "__main__":
         #         canceling   正在撤单
         #         canceled    撤单成功
         #     desc        =>  状态说明
-    print(ret.result.state)
+    print(ret.result.state , ret.result.desc)
 
     #取消订单
     ret = alpha_live_trade.CancelOrder(live_trade_id, orderID)
